@@ -6,7 +6,6 @@ Automated auditing tool for membership records and sales reports, reducing proce
 - **28,800x efficiency improvement**
 - Processes 30+ reports monthly
 - 100% accuracy in data validation
-- Currently deployed in production at UAE Jiu-Jitsu Federation
 
 ## Technologies
 - Python
